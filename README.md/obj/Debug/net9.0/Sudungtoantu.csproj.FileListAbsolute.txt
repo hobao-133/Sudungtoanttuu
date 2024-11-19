@@ -1,0 +1,14 @@
+c:\Users\OS\Documents\Codegym 2\Part 3\Thuchanh\Sudungtoantu\bin\Debug\net9.0\Sudungtoantu.exe
+c:\Users\OS\Documents\Codegym 2\Part 3\Thuchanh\Sudungtoantu\bin\Debug\net9.0\Sudungtoantu.deps.json
+c:\Users\OS\Documents\Codegym 2\Part 3\Thuchanh\Sudungtoantu\bin\Debug\net9.0\Sudungtoantu.runtimeconfig.json
+c:\Users\OS\Documents\Codegym 2\Part 3\Thuchanh\Sudungtoantu\bin\Debug\net9.0\Sudungtoantu.dll
+c:\Users\OS\Documents\Codegym 2\Part 3\Thuchanh\Sudungtoantu\bin\Debug\net9.0\Sudungtoantu.pdb
+c:\Users\OS\Documents\Codegym 2\Part 3\Thuchanh\Sudungtoantu\obj\Debug\net9.0\Sudungtoantu.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\OS\Documents\Codegym 2\Part 3\Thuchanh\Sudungtoantu\obj\Debug\net9.0\Sudungtoantu.AssemblyInfoInputs.cache
+c:\Users\OS\Documents\Codegym 2\Part 3\Thuchanh\Sudungtoantu\obj\Debug\net9.0\Sudungtoantu.AssemblyInfo.cs
+c:\Users\OS\Documents\Codegym 2\Part 3\Thuchanh\Sudungtoantu\obj\Debug\net9.0\Sudungtoantu.csproj.CoreCompileInputs.cache
+c:\Users\OS\Documents\Codegym 2\Part 3\Thuchanh\Sudungtoantu\obj\Debug\net9.0\Sudungtoantu.dll
+c:\Users\OS\Documents\Codegym 2\Part 3\Thuchanh\Sudungtoantu\obj\Debug\net9.0\refint\Sudungtoantu.dll
+c:\Users\OS\Documents\Codegym 2\Part 3\Thuchanh\Sudungtoantu\obj\Debug\net9.0\Sudungtoantu.pdb
+c:\Users\OS\Documents\Codegym 2\Part 3\Thuchanh\Sudungtoantu\obj\Debug\net9.0\Sudungtoantu.genruntimeconfig.cache
+c:\Users\OS\Documents\Codegym 2\Part 3\Thuchanh\Sudungtoantu\obj\Debug\net9.0\ref\Sudungtoantu.dll
